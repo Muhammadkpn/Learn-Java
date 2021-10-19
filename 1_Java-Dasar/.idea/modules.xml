@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Java-Dasar.iml" filepath="$PROJECT_DIR$/1_Java-Dasar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-dasar.iml" filepath="$PROJECT_DIR$/Java-dasar.iml" />
     </modules>
   </component>

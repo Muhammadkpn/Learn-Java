@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/6_Java-Generic.iml" filepath="$PROJECT_DIR$/6_Java-Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/belajar-java-generic.iml" filepath="$PROJECT_DIR$/belajar-java-generic.iml" />
     </modules>
   </component>
