@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-dasar-aplikasi-todolist/java-dasar-aplikasi-todolist.iml" filepath="$PROJECT_DIR$/java-dasar-aplikasi-todolist/java-dasar-aplikasi-todolist.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-oop-aplikasi-todolist/java-oop-aplikasi-todolist.iml" filepath="$PROJECT_DIR$/java-oop-aplikasi-todolist/java-oop-aplikasi-todolist.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-standard-classes/java-standard-classes.iml" filepath="$PROJECT_DIR$/java-standard-classes/java-standard-classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/studi-kasus-java-dasar-aplikasi-todolist-master/studi-kasus-java-dasar-aplikasi-todolist-master.iml" filepath="$PROJECT_DIR$/studi-kasus-java-dasar-aplikasi-todolist-master/studi-kasus-java-dasar-aplikasi-todolist-master.iml" />
     </modules>
   </component>
 </project>
