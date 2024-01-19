@@ -4,7 +4,268 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc88c62c-70e0-43c6-a099-3fb160d745b4" name="Changes" comment="" />
+    <list default="true" id="bc88c62c-70e0-43c6-a099-3fb160d745b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/main/java/muhammadkpn/test/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/main/java/muhammadkpn/test/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/main/java/muhammadkpn/test/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/main/java/muhammadkpn/test/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/AbstractCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/InformationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/LifecycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/MockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/OrderedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/RandomCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/SampleIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/SlowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/generator/SimpleDisplayNameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/resolver/RandomParameterResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/muhammadkpn/test/service/PersonServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_Java-Unit-Test/src/test/java/resource/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/AggregateOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/CheckOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/CollectorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/CreateStreamBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/CreateStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/FilteringOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/ForEachOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/GroupingByTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/LazyValuationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/OrderingOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/ParallelStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/PrimitiveStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/RetrievingOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/StreamOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/StreamPipelineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Java-Stream/src/test/java/org/example/TransformationOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/classes/muhammadkpn/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/classes/muhammadkpn/ConnectionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/classes/muhammadkpn/entity/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/classes/muhammadkpn/repository/CommentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/classes/muhammadkpn/repository/CommentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12_Java-Database/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/AplikasiTodolist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/AplikasiTodolistV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/entity/Todolist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/repository/TodolistRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/repository/TodolistRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/service/TodolistService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/service/TodolistServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/test/service/TodolistServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/test/view/TodolistViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/util/InputUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/main/java/muhammadkpn/view/TodolistView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/test/java/muhammadkpn/repository/TodolistRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13_Aplikasi-Todolist/src/test/java/muhammadkpn/util/DatabaseUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/main/java/muhammadkpn/i18n/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/ChoiceFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/CurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/DateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/LocaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/MessageFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/MessageFormatTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/NumberFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/java/muhammadkpn/i18n/ResourceBundleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/resources/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14_Java-Internationalization/src/test/resources/message_id_ID.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/main/java/muhammadkpn/_JavaDateTime/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/DateFormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/DayOfWeekTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/DurationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/InstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/LegacyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/LocalDateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/LocalTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/LocaleDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/OffsetTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/PeriodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/TemporalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/TimeZoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/YearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/ZoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15_Java-Date-Time/src/test/java/muhammadkpn/_JavaDateTime/ZonedDateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/CounterAtomic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/CounterLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/CounterReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/DaemonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/DeadlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/SynchronizedCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/main/java/muhammadkpn/thread/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/AtomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/CompleteableFutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/CompletionServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ConcurrentMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/DeadlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ExecutorServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ForkJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/FutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/PhaserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/RaceConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ReactiveStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ScheduledExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/SynchronizationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ThreadCommunicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ThreadLocalRandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/ThreadpoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16_Java-Thread/src/test/java/muhammadkpn/thread/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/annotation/NotBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/annotation/SampleAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/data/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/java/muhammadkpn/reflection/validation/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ModifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ParameterTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/PrimitiveTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/RecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/SuperClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17_Java-Reflection/src/test/java/muhammadkpn/reflection/data/TypeVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_Java-Validation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_Java-Validation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_Java-Validation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_Java-Validation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_Java-Validation/src/test/java/muhammadkpn/validation/ValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/main/java/muhammadkpn/logging/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/main/java/muhammadkpn/logging/MyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/main/java/muhammadkpn/logging/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/test/java/contoh/ContohTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/test/java/muhammadkpn/logging/LevelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/test/java/muhammadkpn/logging/LogFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/test/java/muhammadkpn/logging/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_Java-Logging/src/test/java/muhammadkpn/logging/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/SimpleAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/ConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/ForEachApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/FunctionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/LazyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/MapForEachApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/MethodReferenceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/OptionalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/PredicateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/RemoveIfApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/SimpleActionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/app/SupplierApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8_Java-Lambda/src/lambda/util/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Java-Dasar/src/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1_Java-Dasar/src/Break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Java-Dasar/src/TipeDataBukanPrimitif.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1_Java-Dasar/src/TipeDataBukanPrimitif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Java-OOP/src/exception/runtime_exception/BlankException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_Java-OOP/src/exception/runtime_exception/BlankException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Java-OOP/src/method_object/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_Java-OOP/src/method_object/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/DateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/DateApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/ScannerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/ScannerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/StringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4_Java-Standard-Classes/src/muhammadkpn/StringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ComparableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ComparableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ComparatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ComparatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ConstraintApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ConstraintApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ContravariantApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/ContravariantApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/CovariantApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/CovariantApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/MultipleConstraintApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Java-Generic/src/software/developer/generic/application/MultipleConstraintApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionDefaultMethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionDefaultMethodApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DequeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DequeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnumHashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnumMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IdentityHashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IdentityHashMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImmutableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImmutableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImmutableMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImmutableMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImmutableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImmutableSetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IterableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IterableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavigableMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavigableMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NavigableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NavigableSetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedSetApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WeakHashMapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WeakHashMapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/SingleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/SingleQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Java-Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8_Java-Lambda/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +278,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -26,6 +290,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="21UDPNmftxoM0vKsQVTXDqJhg83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,67 +298,56 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9_Apache-Maven/multi-module-project/belajar-apache-maven" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpliteratorApp">
-    <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchApp" />
-      <module name="7_Java-Collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionDefaultMethodApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionDefaultMethodApp" />
+  <component name="RunManager" selected="Application.HashMapApp">
+    <configuration name="ArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayApp" />
       <module name="7_Java-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleQueueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleQueueApp" />
+    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapApp" />
       <module name="7_Java-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpliteratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpliteratorApp" />
+    <configuration name="ImmutableMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImmutableMapApp" />
       <module name="7_Java-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackApp" />
+    <configuration name="IterableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterableApp" />
       <module name="7_Java-Collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListApp" />
+      <module name="7_Java-Collection" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpliteratorApp" />
-        <item itemvalue="Application.CollectionDefaultMethodApp" />
-        <item itemvalue="Application.SingleQueueApp" />
-        <item itemvalue="Application.BinarySearchApp" />
-        <item itemvalue="Application.StackApp" />
+        <item itemvalue="Application.HashMapApp" />
+        <item itemvalue="Application.ImmutableMapApp" />
+        <item itemvalue="Application.ListApp" />
+        <item itemvalue="Application.IterableApp" />
+        <item itemvalue="Application.ArrayApp" />
       </list>
     </recent_temporary>
   </component>
@@ -107,5 +361,27 @@
       <updated>1637986748336</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
